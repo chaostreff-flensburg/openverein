@@ -11,7 +11,7 @@ Wie du deinen Verein gründest und weitere coole und wichtige Infos. Wir freuen 
 - Geld für die Eintragung (ca. 130€)
 - Leitz Ordner für die Bürokratie
 
-### Was ist alles auch noch gut zu haben
+### Was ist auch noch gut zu haben
 - Mitgliedsformulare für Eintritte
 - System zur Verwaltung von Mitgliedschaften und der Mitgliedsbeiträge
 - Bankkonto. Das bekommt ihr entweder bei eurer Lokalen Sparkasse oder Online bei der [GLS Bank](https://www.gls.de/gemeinnuetzige-kunden/)
