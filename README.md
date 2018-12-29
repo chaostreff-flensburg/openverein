@@ -1,6 +1,9 @@
 # Open Verein
 Wie du deinen Verein gründest und weitere coole und wichtige Infos. Wir freuen uns über [Issues](https://github.com/chaostreff-flensburg/openverein/issues) oder [Pull Requests](https://github.com/chaostreff-flensburg/openverein/pulls) mit Verbesserungen. 
 
+Satzung und Beitragsordnung vom [Chaostreff Flensburg e.V.](https://chaostreff-flensburg.de/mitmachen/satzung/)
+
+**Dislcaimer:** Wir übernehmen keine Haftung für Daten, freuen uns aber über Verbesserungen und Tipps!
 
 ## Vereinsgründung
 ### Was wird alles für die Gründung von einem Verein gebraucht
@@ -51,3 +54,4 @@ Die Abkürzung e.V. ist für einen eingetragenden Verein nicht als offizielle Ab
 
 
 Quellen und weitere Materialien: http://www.vereinsknowhow.de/kurzinfos/leitfaden.htm
+Kontakt: kontakt @ samuelbtrinkmann.de
