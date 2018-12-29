@@ -1,6 +1,8 @@
 # Open Verein
-Wie du deinen Verein gründest und weitere coole und wichtige Infos
+Wie du deinen Verein gründest und weitere coole und wichtige Infos. Wir freuen uns über [Issues](https://github.com/chaostreff-flensburg/openverein/issues) oder [Pull Requests](https://github.com/chaostreff-flensburg/openverein/pulls) mit Verbesserungen. 
 
+
+## Vereinsgründung
 ### Was wird alles für die Gründung von einem Verein gebraucht
 - 7 Menschen für die Gründungsversammlung
 - Satzung / Beitragordnung
@@ -32,6 +34,8 @@ Am besten siehst du dir Satzungen von Vereinen machen die etwas machen wie der g
 ### Beitragsordnung (in der Satzung)
 Die Satzung muss nach jeder Änderung neu eingetragen werden und das ist jedes mal Geld & Arbeit. Deswegen haben wir unsere Beitragsordnung von unserer Satzung separiert. Die Beitragsordnung legt fest, wie hoch der Mitgliedsbeitrag für den Verein ist und welche verschiedenen Beiträge es gibt. Rechnet am besten vorher durch wie hoch eure Kosten sind und legt danach den Mitgliedsbeitrag fest. Am besten gibt es auch einen Mitgliedsbeitrag welcher Reduziert ist.
 
+### Vereinsname
+Beim Vereinsnahmen seit ihr total frei, dürft euch aber natürlich nicht wie ein anderer Verein, etc... bennenn. Wir haben uns für den Namen Chaostreff Flensburg entschieden weil es dieses Namensmuster schon im CCC umfeld gibt und einfach so verwendet werden kann.
 
 ### Adresse oder Anschrift vom Verein
 Dieser kann auch eine Privat Adresse sein. Wichtig ist nur das dort Post zugestellt werden kann und diese Briefe weiter an den Verein geleitet werden. Die Adresse ist vor allem wichtig für Dokumente vom Notar, Amtsgericht und gegebenfalls Finanzamt.
