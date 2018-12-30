@@ -3,7 +3,7 @@ Wie du deinen Verein gründest und weitere coole und wichtige Infos. Wir freuen 
 
 Satzung und Beitragsordnung vom [Chaostreff Flensburg e.V.](https://chaostreff-flensburg.de/mitmachen/satzung/)
 
-**Dislcaimer:** Wir übernehmen keine Haftung für Daten, freuen uns aber über Verbesserungen und Tipps!
+**Dislcaimer:** Wir übernehmen keine Haftung für richtigkeit der Inhalt, freuen uns aber über Verbesserungen und Tipps!
 
 ## Vereinsgründung
 ### Was wird alles für die Gründung von einem Verein gebraucht
