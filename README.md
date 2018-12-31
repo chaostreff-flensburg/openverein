@@ -7,10 +7,10 @@ Satzung und Beitragsordnung vom [Chaostreff Flensburg e.V.](https://chaostreff-f
 
 ## Vereinsgründung
 ### Was wird alles für die Gründung von einem Verein gebraucht
-- Sieben Menschen für die Gründungsversammlung
+- Sieben Menschen für die Gründungsversammlung ([§ 56 BGB](https://www.gesetze-im-internet.de/bgb/__56.html))
 - Satzung / Beitragsordnung
 - Sitz und eine Post Anschrift
-- Mindestens einen Menschen für die Vorstandsarbeit (üblicherweise aber mindestens 3) [§ 26 Abs. 1 Satz 2 BGB](https://www.gesetze-im-internet.de/bgb/__26.html)
+- Mindestens einen Menschen für die Vorstandsarbeit (üblicherweise aber mindestens 3) ([§ 26 Abs. 1 Satz 2 BGB](https://www.gesetze-im-internet.de/bgb/__26.html))
 - Geld für die Eintragung (ca. 130€)
 - Ordner für die Bürokratie
 
