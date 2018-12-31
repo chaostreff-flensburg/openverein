@@ -10,7 +10,7 @@ Satzung und Beitragsordnung vom [Chaostreff Flensburg e.V.](https://chaostreff-f
 - Sieben Menschen für die Gründungsversammlung
 - Satzung / Beitragsordnung
 - Sitz und eine Post Anschrift
-- Menschen für die Vorstandsarbeit (mindestens 3)
+- Mindestens einen Menschen für die Vorstandsarbeit (üblicherweise aber mindestens 3) [§ 26 Abs. 1 Satz 2 BGB](https://www.gesetze-im-internet.de/bgb/__26.html)
 - Geld für die Eintragung (ca. 130€)
 - Ordner für die Bürokratie
 
