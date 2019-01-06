@@ -9,7 +9,7 @@ Satzung und Beitragsordnung vom [Chaostreff Flensburg e.V.](https://chaostreff-f
 ### Was wird alles für die Gründung von einem Verein gebraucht
 - Sieben Menschen für die Gründungsversammlung ([§ 56 BGB](https://www.gesetze-im-internet.de/bgb/__56.html))
 - Satzung / Beitragsordnung
-- Sitz und eine Post Anschrift
+- Sitz und eine Postanschrift
 - Mindestens einen Menschen für die Vorstandsarbeit (üblicherweise aber mindestens 3) ([§ 26 Abs. 1 Satz 2 BGB](https://www.gesetze-im-internet.de/bgb/__26.html))
 - Geld für die Eintragung (ca. 130€)
 - Ordner für die Bürokratie
@@ -17,9 +17,9 @@ Satzung und Beitragsordnung vom [Chaostreff Flensburg e.V.](https://chaostreff-f
 ### Was ist auch noch gut zu haben
 - Mitgliedsformulare für Beitritt
 - System zur Verwaltung von Mitgliedschaften und der Mitgliedsbeiträge
-- Bankkonto. Das bekommt ihr entweder bei eurer Lokalen Sparkasse oder Online bei der [GLS Bank](https://www.gls.de/gemeinnuetzige-kunden/)
+- Bankkonto. Das bekommt ihr entweder bei eurer lokalen Sparkasse oder Online bei der [GLS Bank](https://www.gls.de/gemeinnuetzige-kunden/)
 - Website um Satzung, Protokolle, Formulare zu veröffentlichen (und natürlich zur Öffentlichkeitsarbeit)
-- Email Adresse: Für etwaigen Kontakt zu Mitgliedern oder dem Notar
+- Emailadresse: Für etwaigen Kontakt zu Mitgliedern oder dem Notar
 
 ### Was muss in eine Satzung
 - Vereinsname
@@ -38,10 +38,10 @@ Am besten siehst du dir Satzungen von Vereinen an die etwas machen wie dein gepl
 Die Satzung muss nach jeder Änderung neu eingetragen werden und das ist jedes mal Geld & Arbeit verbunden. Deswegen haben wir unsere Beitragsordnung von unserer Satzung separiert. Die Beitragsordnung legt fest, wie hoch der Mitgliedsbeitrag für den Verein ist und welche verschiedenen Beiträge es gibt. Rechnet am besten vorher durch wie hoch eure Kosten sind und legt danach den Mitgliedsbeitrag fest. Am besten gibt es auch einen Mitgliedsbeitrag welcher reduziert ist.
 
 ### Vereinsname
-Beim Vereinsnamen seit ihr total frei, dürft euch aber natürlich nicht wie ein anderer Verein, etc... benennen. Wir haben uns für den Namen Chaostreff Flensburg entschieden weil es dieses Namensmuster schon im CCC-Umfeld gibt und einfach so verwendet werden kann.
+Beim Vereinsnamen seid ihr total frei, dürft euch aber natürlich nicht wie ein anderer Verein, etc... benennen. Wir haben uns für den Namen Chaostreff Flensburg entschieden weil es dieses Namensmuster schon im CCC-Umfeld gibt und einfach so verwendet werden kann.
 
 ### Adresse oder Anschrift vom Verein
-Dieser kann auch eine Privat Adresse sein. Wichtig ist nur das dort Post zugestellt werden kann und diese Briefe weiter an den Verein geleitet werden. Die Adresse ist vor allem wichtig für Dokumente vom Notar, Amtsgericht und gegebenenfalls Finanzamt.
+Diese kann auch eine Privatadresse sein. Wichtig ist nur das dort Post zugestellt werden kann und diese Briefe weiter an den Verein geleitet werden. Die Adresse ist vor allem wichtig für Dokumente vom Notar, Amtsgericht und gegebenenfalls Finanzamt.
 
 ### Notar Finden
 Da Notare feste Sätze für ihre Arbeit bekommen unterscheiden sich die Notare nicht wirklich im Preis. Wir haben unseren aufgrund der Entfernung ausgewählt. Ihr könnt auch den Notar bei jeder Eintragung wechseln, das führt höchsten zu ein wenig mehr Arbeit weil dort die Daten vom Vorstand und Verein noch nicht hinterlegt sind.
